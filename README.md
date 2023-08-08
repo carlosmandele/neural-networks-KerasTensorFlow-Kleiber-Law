@@ -6,6 +6,6 @@ Projeto desenvolvido no curso de Visão Computacional na Université de Montréa
 
 A execução do código/scripts:
 
-Ambiente Jupyter notebook
-Implementação em Linguagem Python
-Framework Scikit-Learn
+* Ambiente Jupyter notebook
+* Implementação em Linguagem Python
+* Framework Scikit-Learn
