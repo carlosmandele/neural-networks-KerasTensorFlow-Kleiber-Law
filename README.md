@@ -6,6 +6,6 @@ Este projeto é parte do curso de Visão Computacional da Université de Montré
 
 A execução do código/scripts:
 
-* Ambiente Jupyter notebook
+* Ambiente Jupyter Lab
 * Implementação em Linguagem Python
 * Framework Scikit-Learn
