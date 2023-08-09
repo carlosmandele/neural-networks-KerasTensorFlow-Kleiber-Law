@@ -8,4 +8,4 @@ A execução do código/scripts:
 
 * Ambiente Jupyter Lab
 * Implementação em Linguagem Python
-* Framework Scikit-Learn
+* Framework Keras/TensorFlow
