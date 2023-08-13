@@ -1,4 +1,4 @@
-# Redes Neurais
+# Deep Learning / Artificial Neural Networks
  ## Aproximando uma lei da natureza diretamente dos dados com Redes Neurais.
 
 
