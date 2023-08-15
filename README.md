@@ -1,11 +1,11 @@
-# Deep Learning
- ## Aproximando uma lei da natureza diretamente dos dados com Redes Neurais Artificiais.
+# Deep Learning / Artificial Neural Networks
+ ## Aproximando uma lei da natureza diretamente dos dados com Redes Neurais.
 
 
-Projeto desenvolvido no curso de Visão Computacional na Université de Montréal e tem como objetivo prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
+Este projeto é parte do curso de Visão Computacional da Université de Montréal e tem como objetivo prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
 
 A execução do código/scripts:
 
-* Ambiente Jupyter notebook
+* Ambiente Jupyter Lab
 * Implementação em Linguagem Python
-* Framework Scikit-Learn
+* Framework Keras/TensorFlow
