@@ -5,9 +5,8 @@
 
 ANN durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane. Este projeto tem como objetivo prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
 
-#### Copyright (c) 2023, Carlos MANDELE
-
- <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />O conteúdo deste projeto é licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+##### Copyright (c) 2023, Carlos MANDELE
+O conteúdo deste projeto é licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
  <div class="license">
 <span>License CC BY</span>
 <span>Carlos MANDELE</span>
