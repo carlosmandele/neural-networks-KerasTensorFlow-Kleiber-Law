@@ -3,7 +3,7 @@
 
 ### Inspiração & Direitos de autor
 
-ANN durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane. Este projeto tem como objetivo prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
+ANN durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane. Neste projeto, o objetivo é construir um modelo de redes neurais artificial (IA) capaz de prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
 
 ##### Copyright (c) 2023, Carlos MANDELE
 O conteúdo deste projeto é licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
