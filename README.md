@@ -15,11 +15,9 @@ O conteúdo deste projeto é licenciado sob uma <a rel="license" href="http://cr
 
 ## Referências:
 
-<a href="http://sites.science.oregonstate.edu/~schaferd/Sleuth/data-sets.html" target='_blank'>Data Sets</a>
+<a href="http://sites.science.oregonstate.edu/~schaferd/Sleuth/data-sets.html" target='_blank'>Data Sets</a> -> Ramsey, F., & Schafer, D. (2012). The statistical sleuth: a course in methods of data analysis. Cengage Learning.
 
 <a href="https://en.wikipedia.org/wiki/Kleiber%27s_law" target="_blank">Lei de Kleiber </a>
-
-Ramsey, F., & Schafer, D. (2012). The statistical sleuth: a course in methods of data analysis. Cengage Learning.
 
 <a href="https://linguatechnologies.com/" target='_blank'>Claude COULOMBE</a> - Ph.D. em Ciências da Computação, empreendedor, consultor de IA aplicada
 #
